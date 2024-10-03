@@ -8,7 +8,10 @@
 * View
 * index
 
-# Table   
+# Table
+
+* DEPT 部門資料表 
+
 | DEPTNO | DNAME      | LOC       |  
 |--------|------------|-----------|  
 | 10     | ACCOUNTING | NEW YORK  |  
@@ -17,7 +20,8 @@
 | 40     | OPERATIONS | BOSTON    |  
 
 
-* EMP 員工資料表   
+* EMP 員工資料表 
+
 | EMPNO | ENAME  | JOB       | MGR  | HIREDATE           | SAL    | COMM   | DEPTNO |
 |-------|--------|-----------|------|--------------------|--------|--------|--------|
 | 7369  | SMITH  | CLERK     | 7902 | 1980-12-17 00:00:00| 800.00 | null   | 20     |
@@ -36,6 +40,7 @@
 | 7934  | MILLER | CLERK     | 7782 | 1982-01-23 00:00:00| 1300.00| null   | 10     |
 
 * SAL_LEVEL 薪資等級資料表   
+
 | LEVEL | SAL_MIN | SAL_MAX |
 |-------|---------|---------|
 | A     | 3001.00 | 9999.00 |
