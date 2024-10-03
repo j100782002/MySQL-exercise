@@ -1,4 +1,12 @@
 # MySQL-exercise
+# 練習項目
+* DQL - select、from、where、group by、having、order by、limit、子查詢
+* DML - insert into、update、delete from
+* TCL
+* DDL - create table、alter table、drop table
+* DCL - grant、revoke
+* View
+* index
 
 # Table 
 | DEPTNO | DNAME      | LOC       |
