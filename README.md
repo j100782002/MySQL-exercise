@@ -11,12 +11,12 @@
 # Table
 
 * DEPT 部門資料表    
-| DEPTNO | DNAME      | LOC       |
-|--------|------------|-----------|
-| 10     | ACCOUNTING | NEW YORK  |
-| 20     | RESEARCH   | DALLAS    |
-| 30     | SALES      | CHICAGO   |
-| 40     | OPERATIONS | BOSTON    |
+| DEPTNO | DNAME      | LOC       |  
+|--------|------------|-----------|  
+| 10     | ACCOUNTING | NEW YORK  |  
+| 20     | RESEARCH   | DALLAS    |  
+| 30     | SALES      | CHICAGO   |  
+| 40     | OPERATIONS | BOSTON    |  
 
 
 * EMP 員工資料表   
