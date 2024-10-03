@@ -8,9 +8,7 @@
 * View
 * index
 
-# Table
-
-* DEPT 部門資料表    
+# Table   
 | DEPTNO | DNAME      | LOC       |  
 |--------|------------|-----------|  
 | 10     | ACCOUNTING | NEW YORK  |  
